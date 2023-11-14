@@ -75,6 +75,6 @@ def run_zein():
         talk('I didn"t understand, Please repeat it')
         pywhatkit.search(command)
 
-
+#Timing loop
 while True:
   run_zein()
